@@ -57,7 +57,7 @@ run these commands in cmd:
  ![Screenshot_1](https://user-images.githubusercontent.com/91455733/184548026-eb32a679-40e0-4696-8aa6-ff34a38cde8c.png)
 
 
- sixth- to save the map, in a new terminal run these commands: 
+ sixth- to save the map, in a new terminal run this command: 
 
     rosrun map_server map_saver -f ~/map
     
