@@ -34,14 +34,14 @@ run these commands in cmd:
         
  second- run a new terminal with these commands: 
  
-     source /home/*username*/catkin_*workspace name*/devel/setup.bash
+     source /home/%username%/catkin_%WorkspaceName%/devel/setup.bash
      export TURTLEBOT3_MODEL=burger
      roslaunch turtlebot3_slam turtlebot3_slam.launch slam_methods:=gmapping
     
     
  third-  run a new terminal with these commands: 
  
-     source /home/*username*/catkin_*workspace name*/devel/setup.bash
+     source /home/%username%/catkin_%WorkspaceName%/devel/setup.bash
      export TURTLEBOT3_MODEL=burger
      roslaunch turtlebot3_teleop turtlebot3_teleop_key.launch
   
