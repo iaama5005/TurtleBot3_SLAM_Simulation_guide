@@ -49,11 +49,21 @@ run these commands in cmd:
  
  fourth- now you can control the robot through the 3rd terminal using the  W S A D X and start mapping.
  
+ ![Screenshot_3](https://user-images.githubusercontent.com/91455733/184547764-7a5d17da-3462-4cff-a942-539f11695515.png)
+ 
+ 
+ fifth- you can see i mapped the whole world, and only thing left is to save it.
+ 
+ ![Screenshot_1](https://user-images.githubusercontent.com/91455733/184548026-eb32a679-40e0-4696-8aa6-ff34a38cde8c.png)
 
- fifth- to save the map, in a new terminal run these commands: 
+
+ sixth- to save the map, in a new terminal run these commands: 
 
     rosrun map_server map_saver -f ~/map
     
+   ![Screenshot_2](https://user-images.githubusercontent.com/91455733/184548192-716cb273-d936-4cad-be75-c40b4c3c2c35.png)
+
+   will be saved as .pgm file.    
     
     
 
